@@ -1,0 +1,5 @@
+Hi,
+We also have regression algorithms in machine learning.
+1) Linear Regression
+2) Decision Tree Regressor
+3) Random Forest Regressor
