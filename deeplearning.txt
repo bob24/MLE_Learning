@@ -1,0 +1,6 @@
+Hi,
+We also have popular deep learning neural networks here. Various concepts in neural networks are:
+1) Activation Functions
+2) Batch Normalization
+3) Dropout
+4) Regularizer
